@@ -3,9 +3,9 @@
 
 Desarrollador de software apasionado por el desarrollo web y móvil, siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.
 
-* 🌍  I'm based in Santiago
-* ✉️  You can contact me at [alexcarvajal@outlook.fr](mailto:alexcarvajal@outlook.fr)
-* 🧠  I'm learning Actualmente, me enfoco en Vue.js, Bootstrap y Firebase.
+* 🌍  Vivo en Santiago
+* ✉️  Me puedes contactar en [alexcarvajal@outlook.fr](mailto:alexcarvajal@outlook.fr)
+* 🧠  Actualmente me encuentro mejorando en Vue.js, Bootstrap y Firebase.
 
 ### Skills
 
