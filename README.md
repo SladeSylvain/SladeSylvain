@@ -1,12 +1,19 @@
 ![Header](https://firebasestorage.googleapis.com/v0/b/proyectofinal-938c3.appspot.com/o/github-header-image%20(1).png?alt=media&token=f6406458-b687-4c6a-b292-9321cd3a99e7)
 
-
+<br>
+<br>
+<br>
+<br>
 Desarrollador de software apasionado por el desarrollo web y móvil, siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.
-
+<br>
+<br>
+<br>
 * 🌍  Vivo en Santiago
 * ✉️  Me puedes contactar en [alexcarvajal@outlook.fr](mailto:alexcarvajal@outlook.fr)
 * 🧠  Actualmente me encuentro mejorando en Vue.js, Bootstrap y Firebase.
 
+<br>
+<br>
 
 ### Skills
 
