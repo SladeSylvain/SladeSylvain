@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<h2 align="center">Skills</h2>
+<p align="center">Skills</p>
 
 
 <p align="center">
