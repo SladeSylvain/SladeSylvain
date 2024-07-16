@@ -13,8 +13,10 @@
 * 🌍  Vivo en Santiago
 * ✉️  Me puedes contactar en [alexcarvajal@outlook.fr](mailto:alexcarvajal@outlook.fr)
 * 🧠  Actualmente me encuentro mejorando en Vue, Bootstrap y Firebase.
-<hr>
+
+  
 <br>
+<hr>
 <br>
 <br>
 
