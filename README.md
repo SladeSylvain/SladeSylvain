@@ -3,15 +3,17 @@
 <br>
 <br>
 <br>
-<br>
 Desarrollador de software apasionado por el desarrollo web y móvil, siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.
 <br>
 <br>
 <br>
 * 🌍  Vivo en Santiago
+<br>
 * ✉️  Me puedes contactar en [alexcarvajal@outlook.fr](mailto:alexcarvajal@outlook.fr)
+<br>
 * 🧠  Actualmente me encuentro mejorando en Vue.js, Bootstrap y Firebase.
 
+<br>
 <br>
 <br>
 
