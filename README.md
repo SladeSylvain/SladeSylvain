@@ -9,12 +9,11 @@
 <br>
 <br>
 <br>
+<p align="center">
 * 🌍  Vivo en Santiago
-<br>
 * ✉️  Me puedes contactar en [alexcarvajal@outlook.fr](mailto:alexcarvajal@outlook.fr)
-<br>
 * 🧠  Actualmente me encuentro mejorando en Vue.js, Bootstrap y Firebase.
-
+</p>
 <br>
 <br>
 <br>
