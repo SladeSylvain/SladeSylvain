@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-Desarrollador de software apasionado por el desarrollo web y móvil, siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.
+<p style="text-align:center">Desarrollador de software apasionado por el desarrollo web y móvil, siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.</p>
 <br>
 <br>
 <br>
