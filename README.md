@@ -1,34 +1,15 @@
-<div align="center">
-
-  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35)" alt="Header Banner" />
-
-  
-
-  <h3>🚀 Desarrollador Web & Móvil Full Stack</h3>
-
-  <p align="center">
-
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)📍-Santiago%2C%20Chile-0078D4?style=flat-square" />
-
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)💻-Vue%20|%20Firebase%20|%20Python-FFB000?style=flat-square" />
-
-  </p>
-
-</div>
-
-
-
----
-
-
+<p align="center">
+  Desarrollador de software apasionado por el desarrollo web y móvil.<br>
+  Siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.
+</p>
 
 <br>
 
-
-
-<p align="center">
-
-  Desarrollador de software apasionado por el desarrollo web y móvil, siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.
+<ul>
+  <li>🌍 Vivo en Santiago</li>
+  <li>✉️ Contacto: <a href="mailto:alexcarvajal@outlook.fr">alexcarvajal@outlook.fr</a></li>
+  <li>🧠 Actualmente mejorando en Vue, Bootstrap y Firebase</li>
+</ul>
 
 </p>
 
