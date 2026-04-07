@@ -1,20 +1,12 @@
 <div align="center">
-  <!-- Banner Principal -->
-  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35)" alt="Header Banner" />
-  
+  <!-- Banner con efecto de escritura -->
+  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35)" alt="Banner" />
+
   <h3>🚀 Desarrollador Web & Móvil Full Stack</h3>
 
-  <p align="center">
+  <p>
     <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)📍-Santiago%2C%20Chile-0078D4?style=flat-square" />
     <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)💻-Vue%20|%20Firebase%20|%20Python-FFB000?style=flat-square" />
-  </p>
-
-  <p align="center">
-    <i>Desarrollador de software apasionado por crear soluciones digitales innovadoras,<br>siempre explorando nuevas tecnologías para optimizar procesos y experiencias de usuario.</i>
-  </p>
-
-  <p align="center">
-    <img src="[https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)" />
   </p>
 </div>
 
@@ -22,26 +14,33 @@
 
 ### 🔍 Sobre mí
 
-- 🌍 Basado en **Santiago, Chile**.
-- ✉️ ¿Hablamos? Contáctame en [alexcarvajal@outlook.fr](mailto:alexcarvajal@outlook.fr)
-- 🧠 Actualmente profundizando mis conocimientos en **Vue 3, Firebase y Arquitectura Cloud**.
+Desarrollador de software apasionado por el desarrollo web y móvil, siempre en busca de nuevas herramientas y tecnologías para mejorar mis habilidades.
+
+- 🌍 Vivo en **Santiago, Chile**.
+- ✉️ Puedes contactarme en: **alexcarvajal@outlook.fr**
+- 🧠 Actualmente mejorando en **Vue, Bootstrap y Firebase**.
 - ⚡ Curioso por la tecnología y amante de los retos técnicos.
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-<p align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=py,js,vue,bootstrap,sass,css,html,git,vscode,firebase,nodejs,jquery](https://skillicons.dev/icons?i=py,js,vue,bootstrap,sass,css,html,git,vscode,firebase,nodejs,jquery)" />
-  </a>
+<p align="left">
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)" width="36" height="36" alt="Python" />
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)" width="36" height="36" alt="JS" />
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg)" width="36" height="36" alt="Vue" />
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg)" width="36" height="36" alt="Firebase" />
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg)" width="36" height="36" alt="Bootstrap" />
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg)" width="36" height="36" alt="Sass" />
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)" width="36" height="36" alt="Node" />
+  <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)" width="36" height="36" alt="Git" />
 </p>
 
 ---
 
 ### 🤝 Conectemos
 
-<p align="center">
+<p align="left">
   <a href="[https://discord.com/users/sladeelyan](https://discord.com/users/sladeelyan)" target="_blank">
     <img src="[https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)" />
   </a>
@@ -56,6 +55,5 @@
 <br />
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight&hide_border=true)" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight&hide_border=true)" alt="Stats" />
 </div>
-
