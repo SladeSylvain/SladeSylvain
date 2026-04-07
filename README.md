@@ -1,4 +1,14 @@
-![Header](https://firebasestorage.googleapis.com/v0/b/proyectofinal-938c3.appspot.com/o/github-header-image%20(1).png?alt=media&token=f6406458-b687-4c6a-b292-9321cd3a99e7)
+<div align="center">
+  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alexander%20Carvajal&fontSize=70&animation=fadeIn&fontAlignY=35)" alt="Header Banner" />
+  
+  <h3>🚀 Desarrollador Web & Móvil Full Stack</h3>
+  <p align="center">
+    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)📍-Santiago%2C%20Chile-0078D4?style=flat-square" />
+    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)💻-Vue%20|%20Firebase%20|%20Python-FFB000?style=flat-square" />
+  </p>
+</div>
+
+---
 
 <br>
 
