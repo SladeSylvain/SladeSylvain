@@ -27,27 +27,27 @@
 
 ---
 
-### 🧠 Formación y Capacitación Activa
-
+🧠 Formación y Capacitación Activa
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 AWS Cloud</h4>
-      <ul>
-        <li><strong>Nivel:</strong> Fundamentos Básicos</li>
-        <li><strong>Foco:</strong> Infraestructura y Cloud Computing</li>
-        <li><strong>Objetivo:</strong> Arquitecturas en la nube</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Full Stack Python</h4>
-      <ul>
-        <li><strong>Frontend:</strong> HTML5, CSS3, JS (ES6+)</li>
-        <li><strong>Backend:</strong> Lógica y servicios con Python</li>
-        <li><strong>Data:</strong> Gestión de Bases de Datos</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h4>☁️ AWS Cloud Practitioner</h4>
+<ul>
+<li><strong>Infraestructura:</strong> Fundamentos de Cloud Computing y servicios globales de AWS.</li>
+<li><strong>Seguridad y Redes:</strong> Gestión de identidades (IAM) y VPC.</li>
+<li><strong>Certificación:</strong> Preparación para examen oficial AWS Certified Cloud Practitioner.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4>🚀 Full Stack Python Trainee</h4>
+<ul>
+<li><strong>Frontend:</strong> Desarrollo responsivo con HTML5, CSS3, JavaScript (ES6+) y Bootstrap.</li>
+<li><strong>Backend:</strong> Lógica de negocio avanzada con Python y Framework Django.</li>
+<li><strong>Bases de Datos:</strong> Modelamiento relacional y consultas SQL con PostgreSQL.</li>
+<li><strong>Herramientas:</strong> Control de versiones con Git/GitHub y metodologías ágiles.</li>
+</ul>
+</td>
+</tr>
 </table>
 ### 🛠️ Tech Stack
 
