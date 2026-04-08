@@ -67,7 +67,9 @@
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandercarvajalp&show_icons=true&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/SladeSylvain?label=Followers&style=for-the-badge&color=0078D4" />
+  <img src="https://img.shields.io/github/stars/SladeSylvain?label=Total%20Stars&style=for-the-badge&color=00C6FF" />
+  <img src="https://img.shields.io/github/repo-size/SladeSylvain/SladeSylvain?label=Repo%20Size&style=for-the-badge&color=FFB000" />
 </p>
 
 ---
