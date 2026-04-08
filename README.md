@@ -27,12 +27,13 @@
 
 ---
 
-### 🧠 Perfil Profesional
+### 🧠 Formación y Capacitación Activa
 
-- 🔭 **Actualmente:** Profundizando en ecosistemas **Full Stack** y servicios **Cloud (AWS)**.
-- 🏗️ **Enfoque:** Arquitecturas modernas con **Vue.js** y soluciones Backend con **Python**.
-- 🛠️ **Background:** Experto en resolución de problemas técnicos complejos y mantenimiento de hardware.
+Actualmente enfocado en el dominio de las bases del desarrollo web y la infraestructura en la nube, construyendo una ruta sólida hacia el perfil Full Stack.
 
+- 🎓 **AWS Cloud:** Cursando fundamentos básicos de **Cloud Computing** (AWS) para entender la infraestructura moderna.
+- 🚀 **Full Stack Python:** En etapa de capacitación intensiva, dominando el ecosistema completo:
+  - **Frontend:** Estructura y diseño con **HTML5, CSS3 y JavaScript (ES6+)**.
 ---
 
 ### 🛠️ Tech Stack
