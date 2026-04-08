@@ -64,10 +64,10 @@
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Actividad Semanal (Métricas Reales)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SladeSylvain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Métricas de WakaTime" />
 </p>
 
 ---
