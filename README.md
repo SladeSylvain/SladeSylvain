@@ -64,36 +64,9 @@
 
 ---
 
-### 📊 Actividad Semanal (Métricas Reales)
-
-### 📊 Análisis de Stack (Última Actividad)
-
-<table width="100%">
-  <tr>
-    <td width="50%" title="Python">
-      <strong>Python</strong> (Backend & Automation)
-      <br>
-      <img src="https://img.shields.io/badge/Progress-85%25-3776AB?style=flat-square" width="100%">
-    </td>
-    <td width="50%" title="JavaScript">
-      <strong>JavaScript</strong> (Frontend & Logic)
-      <br>
-      <img src="https://img.shields.io/badge/Progress-70%25-F7DF1E?style=flat-square" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" title="Vue.js">
-      <strong>Vue.js</strong> (UI Development)
-      <br>
-      <img src="https://img.shields.io/badge/Progress-60%25-4FC08D?style=flat-square" width="100%">
-    </td>
-    <td width="50%" title="Firebase">
-      <strong>Firebase/Cloud</strong> (Infrastructure)
-      <br>
-      <img src="https://img.shields.io/badge/Progress-50%25-FFCA28?style=flat-square" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SladeSylvain&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
