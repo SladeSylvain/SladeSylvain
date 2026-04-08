@@ -67,7 +67,7 @@
 ### 📊 Actividad Semanal (Métricas Reales)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SladeSylvain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Métricas de WakaTime" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeSylvain&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
