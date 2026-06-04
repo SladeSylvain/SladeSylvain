@@ -48,7 +48,7 @@
 
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
-| [**Portfolio + E-commerce**](https://github.com/SladeSylvain/web-con-carrito-de-compra-portafolio-) | App Django completa con autenticación, carrito, roles y panel admin | `Django` `PostgreSQL` `Bootstrap` `AWS` | — |
+| [**E-commerce**](https://github.com/SladeSylvain/web-con-carrito-de-compra-portafolio-) | App Django completa con autenticación, carrito, roles y panel admin | `Django` `PostgreSQL` `Bootstrap` `AWS` | — |
 | [**Fuckin-Demons**](https://github.com/SladeSylvain/Fuckin-Demons) | Shooter DOOM-inspired con raycasting engine en Python y arquitectura SOLID | `Python` `Pygame` `OOP` | — |
 | [**Running **](https://github.com/SladeSylvain/Running) | Juego inspirado en los clasicos juegos de Endless Runner | `Python` `pygame` `OOP`  | — |
 | [**Biblioteca App**](https://github.com/SladeSylvain/pagina-libros) | Gestión de libros con ORM, vistas basadas en clases y búsqueda | `Django` `SQLite` `HTML/CSS` | — |
