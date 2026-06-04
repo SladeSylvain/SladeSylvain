@@ -54,10 +54,10 @@
 | [**Biblioteca App**](https://github.com/SladeSylvain/pagina-libros) | Gestión de libros con ORM, vistas basadas en clases y búsqueda | `Django` `SQLite` `HTML/CSS` | — |
 | [**Login con Vue**](https://github.com/SladeSylvain/inicio-seccion-con-vue) | Sistema de autenticación frontend con Vue.js y manejo de estado | `Vue.js` `JavaScript` `CSS3` | — |
 
----
 
-<img src="https://streak-stats.demolab.com?user=SladeSylvain&theme=tokyonight&hide_border=true" />
----
+
+
+
 
 <div align="center">
 
