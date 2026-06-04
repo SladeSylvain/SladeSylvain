@@ -56,12 +56,7 @@
 
 ---
 
-## 📊 Stats
-<div align="center">
-  <img height="150" src="https://github-readme-stats-sladesylvain.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats-sladesylvain.vercel.app/api/top-langs/?username=SladeSylvain&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
+<img src="https://streak-stats.demolab.com?user=SladeSylvain&theme=tokyonight&hide_border=true" />
 ---
 
 <div align="center">
