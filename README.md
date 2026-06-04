@@ -57,12 +57,10 @@
 ---
 
 ## 📊 Stats
-
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeSylvain&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SladeSylvain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&cache_seconds=1800" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SladeSylvain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
-
 ---
 
 <div align="center">
@@ -74,4 +72,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0078D4&height=100&section=footer" />
 
 </div>
+
+
 
