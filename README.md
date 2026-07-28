@@ -19,7 +19,7 @@
 </p>
 
 > Python Developer & Cloud Engineer. Construyo backends robustos con Django y los despliego en AWS.
-> AWS re/Start · AWS Cloud Practitioner (en progreso) · Full Stack Python Trainee
+> AWS re/Start · AWS Cloud Practitioner · Full Stack Python Trainee
 
 </div>
 
