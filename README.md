@@ -43,16 +43,19 @@
 </div>
 
 ---
+[
+
 
 ## 🚀 Proyectos
 
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
-| [**E-commerce**](https://github.com/SladeSylvain/web-con-carrito-de-compra-portafolio-) | App Django completa con autenticación, carrito, roles y panel admin | `Django` `PostgreSQL` `Bootstrap` `AWS| — |
-| [**Running**](https://github.com/SladeSylvain/Running) | Juego inspirado en los clasicos juegos de Endless Runner | `Python` `pygame` `OOP`  | — |
+| [**AWS Cloud Security Portfolio**](https://github.com/SladeSylvain/aws-cloud-security-portfolio) | Infraestructura cloud, análisis forense (DFIR), automatización y seguridad en AWS | `AWS` `CloudTrail` `VPC` `IAM` `SecOps` | — |
+| [**E-commerce**](https://github.com/SladeSylvain/web-con-carrito-de-compra-portafolio-) | App Django completa con autenticación, carrito, roles y panel admin | `Django` `PostgreSQL` `Bootstrap` `AWS` | — |
+| [**Running**](https://github.com/SladeSylvain/Running) | Juego inspirado en los clasicos juegos de Endless Runner | `Python` `pygame` `OOP` | — |
 | [**Biblioteca App**](https://github.com/SladeSylvain/pagina-libros) | Gestión de libros con ORM, vistas basadas en clases y búsqueda | `Django` `SQLite` `HTML/CSS` | — |
 | [**Login con Vue**](https://github.com/SladeSylvain/inicio-seccion-con-vue) | Sistema de autenticación frontend con Vue.js y manejo de estado | `Vue.js` `JavaScript` `CSS3` | — |
-
+| [**Aprendizaje SQL**](https://github.com/SladeSylvain/Aprendizaje-SQL) | Consultas, diseño relacional y ejercicios prácticos de bases de datos | `SQL` `PostgreSQL` `Bases de Datos` | — |)
 
 
 
