@@ -13,27 +13,27 @@ Construyo backends robustos con Django y los despliego en AWS.
 
 ### 📱 Backend & Frameworks
 
-[<img src="python.png" alt="Python" width="50"/>](https://www.python.org/) [<img src="django.png" alt="Django" width="50"/>](https://www.djangoproject.com/) [<img src="restapi.png" alt="REST API" width="50"/>](https://www.postman.com/features/restapi/) [<img src="fastapi.png" alt="FastAPI" width="50"/>](https://fastapi.tiangolo.com/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/python.png" alt="Python" width="50"/>](https://www.python.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/django.png" alt="Django" width="50"/>](https://www.djangoproject.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/restapi.png" alt="REST API" width="50"/>](https://www.postman.com/features/restapi/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/fastapi.png" alt="FastAPI" width="50"/>](https://fastapi.tiangolo.com/)
 
 ### 🗄️ Bases de Datos
 
-[<img src="postgresql.png" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/) [<img src="sqlite.png" alt="SQLite" width="50"/>](https://www.sqlite.org/) [<img src="dynamodb.png" alt="DynamoDB" width="50"/>](https://aws.amazon.com/dynamodb/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/postgresql.png" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/sqlite.png" alt="SQLite" width="50"/>](https://www.sqlite.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/dynamodb.png" alt="DynamoDB" width="50"/>](https://aws.amazon.com/dynamodb/)
 
 ### ☁️ Cloud & DevOps
 
-[<img src="aws.png" alt="AWS" width="50"/>](https://aws.amazon.com/) [<img src="ec2.png" alt="EC2" width="50"/>](https://aws.amazon.com/ec2/) [<img src="s3.png" alt="S3" width="50"/>](https://aws.amazon.com/s3/) [<img src="vpc.png" alt="VPC" width="50"/>](https://aws.amazon.com/vpc/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/aws.png" alt="AWS" width="50"/>](https://aws.amazon.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/ec2.png" alt="EC2" width="50"/>](https://aws.amazon.com/ec2/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/s3.png" alt="S3" width="50"/>](https://aws.amazon.com/s3/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/vpc.png" alt="VPC" width="50"/>](https://aws.amazon.com/vpc/)
 
-[<img src="iam.png" alt="IAM" width="50"/>](https://aws.amazon.com/iam/) [<img src="cloudtrail.png" alt="CloudTrail" width="50"/>](https://aws.amazon.com/cloudtrail/) [<img src="docker.png" alt="Docker" width="50"/>](https://www.docker.com/) [<img src="linux.png" alt="Linux" width="50"/>](https://www.linux.org/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/iam.png" alt="IAM" width="50"/>](https://aws.amazon.com/iam/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/cloudtrail.png" alt="CloudTrail" width="50"/>](https://aws.amazon.com/cloudtrail/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/docker.png" alt="Docker" width="50"/>](https://www.docker.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/linux.png" alt="Linux" width="50"/>](https://www.linux.org/)
 
 ### 🖥️ Frontend & UI
 
-[<img src="fastapi.png" alt="Vue.js" width="50"/>](https://vuejs.org/) [<img src="restapi.png" alt="JavaScript" width="50"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="html5.png" alt="HTML5" width="50"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="sqlite.png" alt="CSS3" width="50"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/fastapi.png" alt="Vue.js" width="50"/>](https://vuejs.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/restapi.png" alt="JavaScript" width="50"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/html5.png" alt="HTML5" width="50"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/sqlite.png" alt="CSS3" width="50"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
-[<img src="bootstrap.png" alt="Bootstrap" width="50"/>](https://getbootstrap.com/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/bootstrap.png" alt="Bootstrap" width="50"/>](https://getbootstrap.com/)
 
 ### 🔧 Tools & Infrastructure
 
-[<img src="git.png" alt="Git" width="50"/>](https://git-scm.com/) [<img src="docker.png" alt="Bash" width="50"/>](https://www.gnu.org/software/bash/) [<img src="networkfirewall.png" alt="Network Firewall" width="50"/>](https://aws.amazon.com/waf/features/network-firewall/) [<img src="suricata.png" alt="Suricata" width="50"/>](https://suricata.io/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/git.png" alt="Git" width="50"/>](https://git-scm.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/docker.png" alt="Bash" width="50"/>](https://www.gnu.org/software/bash/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/networkfirewall.png" alt="Network Firewall" width="50"/>](https://aws.amazon.com/waf/features/network-firewall/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/suricata.png" alt="Suricata" width="50"/>](https://suricata.io/)
 
 ---
 
@@ -43,7 +43,7 @@ Construyo backends robustos con Django y los despliego en AWS.
 
 Infraestructura cloud avanzada con análisis forense y seguridad
 
-[<img src="aws.png" alt="AWS" width="45"/>](https://aws.amazon.com/) [<img src="vpc.png" alt="VPC" width="45"/>](https://aws.amazon.com/vpc/) [<img src="iam.png" alt="IAM" width="45"/>](https://aws.amazon.com/iam/) [<img src="cloudtrail.png" alt="CloudTrail" width="45"/>](https://aws.amazon.com/cloudtrail/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/aws.png" alt="AWS" width="45"/>](https://aws.amazon.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/vpc.png" alt="VPC" width="45"/>](https://aws.amazon.com/vpc/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/iam.png" alt="IAM" width="45"/>](https://aws.amazon.com/iam/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/cloudtrail.png" alt="CloudTrail" width="45"/>](https://aws.amazon.com/cloudtrail/)
 
 Análisis forense (DFIR), inspección de tráfico, automatización en AWS, Network Firewall y Suricata
 
@@ -55,7 +55,7 @@ Análisis forense (DFIR), inspección de tráfico, automatización en AWS, Netwo
 
 Plataforma completa de comercio electrónico con autenticación y panel admin
 
-[<img src="django.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="python.png" alt="Python" width="45"/>](https://www.python.org/) [<img src="postgresql.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/) [<img src="bootstrap.png" alt="Bootstrap" width="45"/>](https://getbootstrap.com/) [<img src="aws.png" alt="AWS" width="45"/>](https://aws.amazon.com/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/django.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/python.png" alt="Python" width="45"/>](https://www.python.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/postgresql.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/bootstrap.png" alt="Bootstrap" width="45"/>](https://getbootstrap.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/aws.png" alt="AWS" width="45"/>](https://aws.amazon.com/)
 
 Carrito de compra, autenticación de usuarios, roles, panel administrativo
 
@@ -67,7 +67,7 @@ Carrito de compra, autenticación de usuarios, roles, panel administrativo
 
 Juego Endless Runner desarrollado con Python
 
-[<img src="python.png" alt="Python" width="45"/>](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/python.png" alt="Python" width="45"/>](https://www.python.org/)
 
 Juego inspirado en clásicos Endless Runner con programación orientada a objetos
 
@@ -79,7 +79,7 @@ Juego inspirado en clásicos Endless Runner con programación orientada a objeto
 
 Gestión de libros con Django ORM y búsqueda avanzada
 
-[<img src="django.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="sqlite.png" alt="SQLite" width="45"/>](https://www.sqlite.org/) [<img src="html5.png" alt="HTML5" width="45"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="sqlite.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/django.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/sqlite.png" alt="SQLite" width="45"/>](https://www.sqlite.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/html5.png" alt="HTML5" width="45"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/sqlite.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ORM, vistas basadas en clases, búsqueda de libros, catálogo dinámico
 
@@ -91,7 +91,7 @@ ORM, vistas basadas en clases, búsqueda de libros, catálogo dinámico
 
 Sistema de autenticación frontend con gestión de estado
 
-[<img src="fastapi.png" alt="Vue.js" width="45"/>](https://vuejs.org/) [<img src="restapi.png" alt="JavaScript" width="45"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="sqlite.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/fastapi.png" alt="Vue.js" width="45"/>](https://vuejs.org/) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/restapi.png" alt="JavaScript" width="45"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/sqlite.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
 Autenticación frontend, manejo de estado, validación de formularios
 
@@ -103,7 +103,7 @@ Autenticación frontend, manejo de estado, validación de formularios
 
 Ejercicios prácticos de SQL y diseño relacional de bases de datos
 
-[<img src="postgresql.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/)
+[<img src="https://raw.githubusercontent.com/SladeSylvain/SladeSylvain/main/postgresql.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/)
 
 Consultas avanzadas, diseño relacional, optimización, ejercicios prácticos
 
