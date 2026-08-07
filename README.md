@@ -13,27 +13,27 @@ Construyo backends robustos con Django y los despliego en AWS.
 
 ### 📱 Backend & Frameworks
 
-[<img src="1786141975306_image.png" alt="Python" width="50"/>](https://www.python.org/) [<img src="1786142075043_image.png" alt="Django" width="50"/>](https://www.djangoproject.com/) [<img src="1786141988166_image.png" alt="REST API" width="50"/>](https://www.postman.com/features/restapi/) [<img src="1786142086891_image.png" alt="FastAPI" width="50"/>](https://fastapi.tiangolo.com/)
+[<img src="python.png" alt="Python" width="50"/>](https://www.python.org/) [<img src="django.png" alt="Django" width="50"/>](https://www.djangoproject.com/) [<img src="restapi.png" alt="REST API" width="50"/>](https://www.postman.com/features/restapi/) [<img src="fastapi.png" alt="FastAPI" width="50"/>](https://fastapi.tiangolo.com/)
 
 ### 🗄️ Bases de Datos
 
-[<img src="1786142002043_image.png" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/) [<img src="1786142030779_image.png" alt="SQLite" width="50"/>](https://www.sqlite.org/) [<img src="1786142060670_image.png" alt="DynamoDB" width="50"/>](https://aws.amazon.com/dynamodb/)
+[<img src="postgresql.png" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/) [<img src="sqlite.png" alt="SQLite" width="50"/>](https://www.sqlite.org/) [<img src="dynamodb.png" alt="DynamoDB" width="50"/>](https://aws.amazon.com/dynamodb/)
 
 ### ☁️ Cloud & DevOps
 
-[<img src="1786142452021_image.png" alt="AWS" width="50"/>](https://aws.amazon.com/) [<img src="1786142316179_image.png" alt="EC2" width="50"/>](https://aws.amazon.com/ec2/) [<img src="1786142302550_image.png" alt="S3" width="50"/>](https://aws.amazon.com/s3/) [<img src="1786142290738_image.png" alt="VPC" width="50"/>](https://aws.amazon.com/vpc/)
+[<img src="aws.png" alt="AWS" width="50"/>](https://aws.amazon.com/) [<img src="ec2.png" alt="EC2" width="50"/>](https://aws.amazon.com/ec2/) [<img src="s3.png" alt="S3" width="50"/>](https://aws.amazon.com/s3/) [<img src="vpc.png" alt="VPC" width="50"/>](https://aws.amazon.com/vpc/)
 
-[<img src="1786142364249_image.png" alt="IAM" width="50"/>](https://aws.amazon.com/iam/) [<img src="1786142199993_image.png" alt="CloudTrail" width="50"/>](https://aws.amazon.com/cloudtrail/) [<img src="1786142120977_image.png" alt="Docker" width="50"/>](https://www.docker.com/) [<img src="1786142102040_image.png" alt="Linux" width="50"/>](https://www.linux.org/)
+[<img src="iam.png" alt="IAM" width="50"/>](https://aws.amazon.com/iam/) [<img src="cloudtrail.png" alt="CloudTrail" width="50"/>](https://aws.amazon.com/cloudtrail/) [<img src="docker.png" alt="Docker" width="50"/>](https://www.docker.com/) [<img src="linux.png" alt="Linux" width="50"/>](https://www.linux.org/)
 
 ### 🖥️ Frontend & UI
 
-[<img src="1786142086891_image.png" alt="Vue.js" width="50"/>](https://vuejs.org/) [<img src="1786141988166_image.png" alt="JavaScript" width="50"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="1786142013904_image.png" alt="HTML5" width="50"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="1786142030779_image.png" alt="CSS3" width="50"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img src="fastapi.png" alt="Vue.js" width="50"/>](https://vuejs.org/) [<img src="restapi.png" alt="JavaScript" width="50"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="html5.png" alt="HTML5" width="50"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="sqlite.png" alt="CSS3" width="50"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
-[<img src="1786142102040_image.png" alt="Bootstrap" width="50"/>](https://getbootstrap.com/)
+[<img src="bootstrap.png" alt="Bootstrap" width="50"/>](https://getbootstrap.com/)
 
 ### 🔧 Tools & Infrastructure
 
-[<img src="1786142164357_image.png" alt="Git" width="50"/>](https://git-scm.com/) [<img src="1786142120977_image.png" alt="Bash" width="50"/>](https://www.gnu.org/software/bash/) [<img src="1786142213209_image.png" alt="Network Firewall" width="50"/>](https://aws.amazon.com/waf/features/network-firewall/) [<img src="1786142272498_image.png" alt="Suricata" width="50"/>](https://suricata.io/)
+[<img src="git.png" alt="Git" width="50"/>](https://git-scm.com/) [<img src="docker.png" alt="Bash" width="50"/>](https://www.gnu.org/software/bash/) [<img src="networkfirewall.png" alt="Network Firewall" width="50"/>](https://aws.amazon.com/waf/features/network-firewall/) [<img src="suricata.png" alt="Suricata" width="50"/>](https://suricata.io/)
 
 ---
 
@@ -43,7 +43,7 @@ Construyo backends robustos con Django y los despliego en AWS.
 
 Infraestructura cloud avanzada con análisis forense y seguridad
 
-[<img src="1786142452021_image.png" alt="AWS" width="45"/>](https://aws.amazon.com/) [<img src="1786142290738_image.png" alt="VPC" width="45"/>](https://aws.amazon.com/vpc/) [<img src="1786142364249_image.png" alt="IAM" width="45"/>](https://aws.amazon.com/iam/) [<img src="1786142199993_image.png" alt="CloudTrail" width="45"/>](https://aws.amazon.com/cloudtrail/)
+[<img src="aws.png" alt="AWS" width="45"/>](https://aws.amazon.com/) [<img src="vpc.png" alt="VPC" width="45"/>](https://aws.amazon.com/vpc/) [<img src="iam.png" alt="IAM" width="45"/>](https://aws.amazon.com/iam/) [<img src="cloudtrail.png" alt="CloudTrail" width="45"/>](https://aws.amazon.com/cloudtrail/)
 
 Análisis forense (DFIR), inspección de tráfico, automatización en AWS, Network Firewall y Suricata
 
@@ -55,7 +55,7 @@ Análisis forense (DFIR), inspección de tráfico, automatización en AWS, Netwo
 
 Plataforma completa de comercio electrónico con autenticación y panel admin
 
-[<img src="1786142075043_image.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="1786141975306_image.png" alt="Python" width="45"/>](https://www.python.org/) [<img src="1786142002043_image.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/) [<img src="1786142102040_image.png" alt="Bootstrap" width="45"/>](https://getbootstrap.com/) [<img src="1786142452021_image.png" alt="AWS" width="45"/>](https://aws.amazon.com/)
+[<img src="django.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="python.png" alt="Python" width="45"/>](https://www.python.org/) [<img src="postgresql.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/) [<img src="bootstrap.png" alt="Bootstrap" width="45"/>](https://getbootstrap.com/) [<img src="aws.png" alt="AWS" width="45"/>](https://aws.amazon.com/)
 
 Carrito de compra, autenticación de usuarios, roles, panel administrativo
 
@@ -67,7 +67,7 @@ Carrito de compra, autenticación de usuarios, roles, panel administrativo
 
 Juego Endless Runner desarrollado con Python
 
-[<img src="1786141975306_image.png" alt="Python" width="45"/>](https://www.python.org/)
+[<img src="python.png" alt="Python" width="45"/>](https://www.python.org/)
 
 Juego inspirado en clásicos Endless Runner con programación orientada a objetos
 
@@ -79,7 +79,7 @@ Juego inspirado en clásicos Endless Runner con programación orientada a objeto
 
 Gestión de libros con Django ORM y búsqueda avanzada
 
-[<img src="1786142075043_image.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="1786142030779_image.png" alt="SQLite" width="45"/>](https://www.sqlite.org/) [<img src="1786142013904_image.png" alt="HTML5" width="45"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="1786142030779_image.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img src="django.png" alt="Django" width="45"/>](https://www.djangoproject.com/) [<img src="sqlite.png" alt="SQLite" width="45"/>](https://www.sqlite.org/) [<img src="html5.png" alt="HTML5" width="45"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="sqlite.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ORM, vistas basadas en clases, búsqueda de libros, catálogo dinámico
 
@@ -91,7 +91,7 @@ ORM, vistas basadas en clases, búsqueda de libros, catálogo dinámico
 
 Sistema de autenticación frontend con gestión de estado
 
-[<img src="1786142086891_image.png" alt="Vue.js" width="45"/>](https://vuejs.org/) [<img src="1786141988166_image.png" alt="JavaScript" width="45"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="1786142030779_image.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img src="fastapi.png" alt="Vue.js" width="45"/>](https://vuejs.org/) [<img src="restapi.png" alt="JavaScript" width="45"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="sqlite.png" alt="CSS3" width="45"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
 Autenticación frontend, manejo de estado, validación de formularios
 
@@ -103,7 +103,7 @@ Autenticación frontend, manejo de estado, validación de formularios
 
 Ejercicios prácticos de SQL y diseño relacional de bases de datos
 
-[<img src="1786142002043_image.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/)
+[<img src="postgresql.png" alt="PostgreSQL" width="45"/>](https://www.postgresql.org/)
 
 Consultas avanzadas, diseño relacional, optimización, ejercicios prácticos
 
