@@ -54,6 +54,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>☁️ AWS Local Training Environment (Floci)</h3>
+      <p>Entorno de entrenamiento local usando Docker y Floci/LocalStack para simular, probar y desplegar servicios de AWS de forma aislada sin generar costos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash" />
+      </p>
+      <a href="https://github.com/SladeSylvain/Aws-with-floci-training"><b>📂 Ver Repositorio »</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔐 AWS Cloud Security Portfolio</h3>
       <p>Infraestructura cloud avanzada con análisis forense (DFIR), inspección de tráfico, automatización, Network Firewall y Suricata.</p>
       <p>
@@ -62,6 +72,17 @@
         <img src="https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazon-aws" />
       </p>
       <a href="https://github.com/SladeSylvain/aws-cloud-security-portfolio"><b>📂 Ver Repositorio »</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 NeetCode Solutions & Algorithms</h3>
+      <p>Colección de soluciones optimizadas a problemas clásicos de estructuras de datos y algoritmos (LeetCode/NeetCode) implementadas principalmente en Python.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Algorithms-005571?style=flat-square&logo=leetcode" />
+      </p>
+      <a href="https://github.com/SladeSylvain/neetcode-submissions"><b>📂 Ver Repositorio »</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 E-commerce Django</h3>
